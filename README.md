@@ -1,0 +1,1 @@
+go to releases and download the apk file and have fun :)))
