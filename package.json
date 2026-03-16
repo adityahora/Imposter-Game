@@ -1,0 +1,27 @@
+{
+  "name": "imposter-game",
+  "version": "1.0.0",
+  "description": "Imposter — Who's The Spy? A party game for friends.",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node build.js",
+    "cap:sync": "npm run build && npx cap sync",
+    "cap:open:android": "npx cap open android"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/camera": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/haptics": "^6.0.0",
+    "sharp": "^0.34.5"
+  },
+  "keywords": [
+    "imposter",
+    "spy",
+    "party-game",
+    "spyfall"
+  ],
+  "license": "MIT"
+}

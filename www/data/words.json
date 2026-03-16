@@ -1,0 +1,97 @@
+{
+  "categories": [
+    {
+      "name": "Places",
+      "words": [
+        { "word": "Beach", "hint": "sand" },
+        { "word": "Hospital", "hint": "patients" },
+        { "word": "Airport", "hint": "flights" },
+        { "word": "School", "hint": "students" },
+        { "word": "Library", "hint": "books" },
+        { "word": "Museum", "hint": "artifacts" },
+        { "word": "Restaurant", "hint": "dining" },
+        { "word": "Cinema", "hint": "movies" },
+        { "word": "Zoo", "hint": "cages" },
+        { "word": "Casino", "hint": "gambling" },
+        { "word": "Church", "hint": "prayer" },
+        { "word": "Stadium", "hint": "cheering" },
+        { "word": "Supermarket", "hint": "groceries" },
+        { "word": "Bank", "hint": "vault" },
+        { "word": "Prison", "hint": "cells" },
+        { "word": "Farm", "hint": "crops" },
+        { "word": "Gym", "hint": "exercise" },
+        { "word": "Spa", "hint": "relaxation" },
+        { "word": "Cruise Ship", "hint": "sailing" },
+        { "word": "Space Station", "hint": "orbit" }
+      ]
+    },
+    {
+      "name": "Occupations",
+      "words": [
+        { "word": "Doctor", "hint": "stethoscope" },
+        { "word": "Pilot", "hint": "cockpit" },
+        { "word": "Chef", "hint": "kitchen" },
+        { "word": "Detective", "hint": "clues" },
+        { "word": "Astronaut", "hint": "space" },
+        { "word": "Firefighter", "hint": "hose" },
+        { "word": "Teacher", "hint": "chalk" },
+        { "word": "Magician", "hint": "tricks" },
+        { "word": "Pirate", "hint": "treasure" },
+        { "word": "Spy", "hint": "undercover" }
+      ]
+    },
+    {
+      "name": "Animals",
+      "words": [
+        { "word": "Elephant", "hint": "trunk" },
+        { "word": "Penguin", "hint": "tuxedo" },
+        { "word": "Fuck You", "hint": "cuss" }
+      ]
+    },
+    {
+      "name": "Food & Drinks",
+      "words": [
+        { "word": "Pizza", "hint": "slices" },
+        { "word": "Sushi", "hint": "rice" },
+        { "word": "Chocolate", "hint": "cocoa" },
+        { "word": "Coffee", "hint": "beans" },
+        { "word": "Taco", "hint": "shell" },
+        { "word": "Ice Cream", "hint": "cone" },
+        { "word": "Pancake", "hint": "syrup" },
+        { "word": "Burger", "hint": "patty" },
+        { "word": "Popcorn", "hint": "kernels" },
+        { "word": "Lemonade", "hint": "citrus" }
+      ]
+    },
+    {
+      "name": "Objects",
+      "words": [
+        { "word": "Umbrella", "hint": "rain" },
+        { "word": "Mirror", "hint": "reflection" },
+        { "word": "Clock", "hint": "ticking" },
+        { "word": "Telescope", "hint": "stars" },
+        { "word": "Guitar", "hint": "strings" },
+        { "word": "Candle", "hint": "flame" },
+        { "word": "Compass", "hint": "north" },
+        { "word": "Diamond", "hint": "sparkle" },
+        { "word": "Backpack", "hint": "straps" },
+        { "word": "Treasure Map", "hint": "X" }
+      ]
+    },
+    {
+      "name": "Movies & TV",
+      "words": [
+        { "word": "Titanic", "hint": "iceberg" },
+        { "word": "Hogwarts", "hint": "wands" },
+        { "word": "Jurassic Park", "hint": "fossils" },
+        { "word": "The Matrix", "hint": "pills" },
+        { "word": "Batman", "hint": "cape" },
+        { "word": "Avatar", "hint": "blue" },
+        { "word": "Frozen", "hint": "snowflake" },
+        { "word": "Star Wars", "hint": "lightsaber" },
+        { "word": "Stranger Things", "hint": "upside-down" },
+        { "word": "Squid Game", "hint": "elimination" }
+      ]
+    }
+  ]
+}
